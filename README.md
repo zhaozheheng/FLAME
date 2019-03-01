@@ -1,2 +1,2 @@
 # FLAME
-C++ Version FLAME human models
+C++ Version FLAME human facial models
